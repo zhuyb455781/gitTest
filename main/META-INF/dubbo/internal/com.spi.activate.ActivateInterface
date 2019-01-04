@@ -1,0 +1,6 @@
+
+group = com.spi.activate.impl.ActivateImpl1
+order2 = com.spi.activate.impl.ActivateImpl2
+order1 = com.spi.activate.impl.ActivateImpl3
+value = com.spi.activate.impl.ActivateImpl4
+com.spi.activate.impl.ActivateImpl5

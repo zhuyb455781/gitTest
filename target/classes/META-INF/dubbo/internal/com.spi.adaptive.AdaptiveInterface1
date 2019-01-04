@@ -1,0 +1,4 @@
+impl1=com.spi.adaptive.impl.AdapImpl1
+impl2=com.spi.adaptive.impl.AdapIml2AdaptiveInterface1
+impl3=com.spi.adaptive.impl.AdapImpl3AdaptiveInterface1
+impl4=com.spi.adaptive.impl.AdapImpl4
